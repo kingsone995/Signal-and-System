@@ -3,7 +3,7 @@
 
 本课件制作工具VsCode，采用MarkDown语言设计，所以文件的后缀名均为md。所以同学们也可以用VsCode进行查看和修改，提交。
 
-所需基础知识：
+所需基础知识：
 1，git原理，参考文档progit2.pdf。参考网站[https://git-scm.com](https://git-scm.com)
 2，MarkDown基本格式与原理
 3，VsCode基本操作
