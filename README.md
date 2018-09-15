@@ -10,6 +10,8 @@
 
 VsCode显示MarkDown页面效果时，需要添加相关插件。有个笨办法：在Debug菜单，选择Start Debugging，然后点击more。此时在左边页面出现一堆插件，在上面搜索栏输入MarkDown，就在左边会出现一批插件，可以选择其中某几种，但是要预览的话，必须选中Markdown Preview Enhanced。下图就是我的VsCode中整个工作页面。
 
+![image](https://github.com/kingsone995/Signal-and-System/blob/master/VsCode.png)
+
 [^_^]:
     [image](/Users/wangyigang/Documents/kingsone/github/Signal-and-System/VsCode.png)
 
