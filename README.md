@@ -3,10 +3,10 @@
 
 本课件制作工具VsCode，采用MarkDown语言设计，所以文件的后缀名均为md。所以同学们也可以用VsCode进行查看和修改，提交。
 
-所需基础知识：
-1，git原理，参考文档progit2.pdf。参考网站[https://git-scm.com](https://git-scm.com)
-2，MarkDown基本格式与原理
-3，VsCode基本操作
+<font color=red>\#</font>  所需基础知识：
+1. git原理，参考文档progit2.pdf。参考网站[https://git-scm.com](https://git-scm.com)
+2. MarkDown基本格式与原理
+3. VsCode基本操作
 
 VsCode显示MarkDown页面效果时，需要添加相关插件。有个笨办法：在Debug菜单，选择Start Debugging，然后点击more。此时在左边页面出现一堆插件，在上面搜索栏输入MarkDown，就在左边会出现一批插件，可以选择其中某几种，但是要预览的话，必须选中Markdown Preview Enhanced。下图就是我的VsCode中整个工作页面。
 
