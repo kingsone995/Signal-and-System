@@ -28,6 +28,25 @@
   图1-3 电报
 </center>
 
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/signal-1.png" > 
+  
+  图1-4 未处理前的信号
+</center>
+
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/signal-filted-1.png" > 
+  
+  图1-5 处理后的信号
+</center>
+
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/x-1.png" > 
+  
+  图1-6 信号增强之后的示意图
+  </center>
+
+
 [^_^]:
     ![image](https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/flag-1.png)
 
@@ -36,6 +55,12 @@ C)	电信号是最便于存储、传输、处理和再现的，因此引用最�
 D)	机械专业就是关心机械震动方面。信号与系统从开课初期针对通信专业，到现在几乎被全部工科专业所采用，不同专业，信号各不相同，我们通信专业所关心的是电信号。
 
 6)	什么是系统？
+
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/telesys-1.png" > 
+  
+  图1-7 通信系统示意图
+  </center>
 
 ## 1.1 信号与系统的基本概念
 ### 1.1.1 信号的描述和分类
