@@ -10,16 +10,32 @@
     D)	通信系统有有线通信、无线通信、光纤通信、微波通信等等。我们这门课程，首先学习的有关通信的基础理论。
 5)	什么是信号？
     A）信号是信息的具体表现形式。如光信号、电信号、声信号等。
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/flag-1.png" > 
+  
+  图1-1 旗语
+</center>
 
-  <div align=center>
-  ![image](https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/flag-1.png)
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/heart-1.png" > 
+  
+  图1-2 心电图
+</center>
 
+<center>
+  <img src="https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/telecomm-1.png" > 
+  
+  图1-3 电报
+</center>
 
-    B)	电信号又可分为电流信号（有线）和电磁波信号（无线）。
-    C)	电信号是最便于存储、传输、处理和再现的，因此引用最广泛。在实际应用中，一般先将其他物理量通过传感器变成电信号，再进行处理和传输。如话筒，其功能就是将声波变成电信号。
-    D)	机械专业就是关心机械震动方面。信号与系统从开课初期针对通信专业，到现在几乎被全部工科专业所采用，不同专业，信号各不相同，我们通信专业所关心的是电信号。
+[^_^]:
+    ![image](https://raw.githubusercontent.com/kingsone995/Signal-and-System/master/flag-1.png)
 
+B)	电信号又可分为电流信号（有线）和电磁波信号（无线）。
+C)	电信号是最便于存储、传输、处理和再现的，因此引用最广泛。在实际应用中，一般先将其他物理量通过传感器变成电信号，再进行处理和传输。如话筒，其功能就是将声波变成电信号。
+D)	机械专业就是关心机械震动方面。信号与系统从开课初期针对通信专业，到现在几乎被全部工科专业所采用，不同专业，信号各不相同，我们通信专业所关心的是电信号。
 
+6)	什么是系统？
 
 ## 1.1 信号与系统的基本概念
 ### 1.1.1 信号的描述和分类
