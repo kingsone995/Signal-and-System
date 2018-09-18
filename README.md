@@ -21,3 +21,7 @@ VsCode显示MarkDown页面效果时，需要添加相关插件。有个笨办法
 [^_^]:
     [image](/Users/wangyigang/Documents/kingsone/github/Signal-and-System/VsCode.png)
 
+接下来，我们正式进入学习环节。
+
+[点击进入目录](SUMMARY.md)
+
